@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PalamarenkoHomeWork</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="title_activity_home_work1">HomeWork1</string>
+    <string name="Main">Home</string>
+    <string name="HV1">Home Work 1</string>
+    <string name="HV2">Home Work 2</string>
+    <string name="HV3">Home Work 3</string>
+    <string name="HV4">Home Work 4</string>
+    <string name="HV5">Home Work 5</string>
+    <string name="HV6">Home Work 6</string>
+    <string name="title_activity_home_work2">HomeWork2</string>
+    <string name="title_activity_home_work3">HomeWork3</string>
+    <string name="title_activity_home_work4">HomeWork4</string>
+    <string name="title_activity_home_work5">HomeWork5</string>
+</resources>

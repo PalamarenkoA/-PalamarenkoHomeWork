@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/HW"
+        android:title="Home"
+
+        yourapp:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/HW1"
+        android:title="1HW"
+
+        yourapp:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/HW2"
+        android:title="2HW"
+
+        yourapp:showAsAction="always" />
+    <item
+    android:id="@+id/HW3"
+    android:title="3HW"
+
+     />
+    <item
+        android:id="@+id/HW4"
+        android:title="4HW"
+
+       />
+    <item
+        android:id="@+id/HW5"
+        android:title="5HW"
+
+       />
+
+</menu>

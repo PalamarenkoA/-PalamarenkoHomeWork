@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="@string/Main"
+            android:id="@+id/Main"/>
+        <item
+            android:title="@string/HV1"
+            android:id="@+id/HV1"/>
+        <item
+            android:title="@string/HV2"
+            android:id="@+id/HV2" />
+        <item
+            android:title="@string/HV3"
+            android:id="@+id/HV3"/>
+        <item
+            android:title="@string/HV4"
+            android:id="@+id/HV4"/>
+        <item
+            android:title="@string/HV5"
+            android:id="@+id/HV5"/>
+
+    </group>
+</menu>
